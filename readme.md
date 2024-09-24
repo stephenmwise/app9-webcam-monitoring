@@ -5,3 +5,4 @@
 - Trigger action when object is detected
 - Add live timestamp to webcam video
 - Email alert sent to user if object detected
+- Auto email notification
